@@ -2,7 +2,8 @@
 
 int main(void)
 {
-    char name[] = "ちんちん侍";
-    printf("Hello, %s\n", name);
+    char name[] = "Kodai";
+    char greet[] = "Hello";
+    printf("%s, %s\n",greet, name);
     return 0;
 }
